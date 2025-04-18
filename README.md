@@ -124,7 +124,7 @@ kubectl get pods -A
 ## 📸 Screenshots
 
 ### EC2 Master Instance Summary
-![EC2 Master Instance Summary](Screenshot2025-04-19003816.png)
+![EC2 Master Instance Summary](https://github.com/rsharmaofficial/Kubernetes-installation/blob/main/Screenshot%202025-04-19%20003345.png)
 
 ### Installation Script Outputs
 5 consecutive screenshots showing the install script execution on RHEL-based EC2 instances:
