@@ -129,13 +129,13 @@ kubectl get pods -A
 ### Installation Script Outputs
 5 consecutive screenshots showing the install script execution on RHEL-based EC2 instances:
 
-![Install Step 1]([Screenshot-2025-04-19-003345.png](https://github.com/rsharmaofficial/Kubernetes-installation/blob/main/Screenshot%202025-04-19%20003345.png))
+![Install Step 1](https://github.com/rsharmaofficial/Kubernetes-installation/blob/main/Screenshot%202025-04-19%20003345.png)
 
-![Install Step 2]([https://github.com/rsharmaofficial/Kubernetes-installation/blob/main/Screenshot%202025-04-19%20003403.png])
+![Install Step 2](https://github.com/rsharmaofficial/Kubernetes-installation/blob/main/Screenshot%202025-04-19%20003403.png)
 
-![Install Step 3]([Screenshot-2025-04-19-003416.png](https://github.com/rsharmaofficial/Kubernetes-installation/blob/main/Screenshot%202025-04-19%20003416.png))
+![Install Step 3](https://github.com/rsharmaofficial/Kubernetes-installation/blob/main/Screenshot%202025-04-19%20003416.png)
 
-![Install Step 4]([Screenshot-2025-04-19-003428.png](https://github.com/rsharmaofficial/Kubernetes-installation/blob/main/Screenshot%202025-04-19%20003428.png))
+![Install Step 4](https://github.com/rsharmaofficial/Kubernetes-installation/blob/main/Screenshot%202025-04-19%20003428.png)
 
-![Install Step 5]([Screenshot-2025-04-19-003441.png](https://github.com/rsharmaofficial/Kubernetes-installation/blob/main/Screenshot%202025-04-19%20003441.png))
+![Install Step 5](https://github.com/rsharmaofficial/Kubernetes-installation/blob/main/Screenshot%202025-04-19%20003441.png)
 
