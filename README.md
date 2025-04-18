@@ -123,29 +123,19 @@ kubectl get pods -A
 
 ## 📸 Screenshots
 
-> Add your images in the `images/` folder and update the markdown links accordingly.
+### EC2 Master Instance Summary
+![EC2 Master Instance Summary](images/Screenshot-2025-04-19-003816.png)
 
-### EC2 Instances Setup
-![EC2 Instances](images/ec2-instances.png)
+### Installation Script Outputs
+5 consecutive screenshots showing the install script execution on RHEL-based EC2 instances:
 
-### Master Initialization
-![Master Init](images/master-init.png)
+![Install Step 1](images/Screenshot-2025-04-19-003345.png)
 
-### Worker Join
-![Worker Join](images/worker-join.png)
+![Install Step 2](images/Screenshot-2025-04-19-003403.png)
 
-### Final Cluster
-![Cluster Status](images/cluster-status.png)
+![Install Step 3](images/Screenshot-2025-04-19-003416.png)
 
----
+![Install Step 4](images/Screenshot-2025-04-19-003428.png)
 
-## 🙏 Credits
-
-Made with ❤️ by **Rishabh Bhai**
-
----
-
-## 🔒 License
-
-This project is licensed under the MIT License.
+![Install Step 5](images/Screenshot-2025-04-19-003441.png)
 
